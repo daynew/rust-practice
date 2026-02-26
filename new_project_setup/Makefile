@@ -1,4 +1,4 @@
-all: build run
+all: run
 
 build:
 	cargo check
